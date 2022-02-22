@@ -38,3 +38,6 @@ yusuf@Yusufs-MacBook-Pro GraphQL % node server.js
 yusuf@Yusufs-MacBook-Pro GraphQL % node server.js
 server running on http://localhost:9000/
 ```
+
+<img width="912" alt="image" src="https://user-images.githubusercontent.com/85268263/155063419-aa07d72e-0e4b-410f-8dbb-7b8fb51c9dc6.png">
+
