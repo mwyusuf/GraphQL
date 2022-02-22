@@ -70,3 +70,18 @@ fetchGreeting().then(greeting => {
     title.textContent = greeting.greeting;
 });
 ```
+# Apollo Server
+Apollo Server is an open-source, spec-compliant GraphQL server that's compatible with any GraphQL client, including Apollo Client. It's the best way to build a production-ready, self-documenting GraphQL API that can use data from any source.
+
+![image](https://user-images.githubusercontent.com/85268263/155081410-0978672c-a8e3-4306-8ad3-b144a08d2709.png)
+
+You can use Apollo Server as:
+* A stand-alone GraphQL server, including in a serverless environment
+* An add-on to your application's existing Node.js middleware (such as Express or Fastify)
+* A gateway for a federated graph
+
+Apollo Server provides:
+* Straightforward setup, so your client developers can start fetching data quickly
+* Incremental adoption, allowing you to add features as they're needed
+* Universal compatibility with any data source, any build tool, and any GraphQL client
+* Production readiness, enabling you to ship features faster
