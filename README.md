@@ -8,3 +8,33 @@ GraphQL is a query language for APIs and a runtime for fulfilling those queries 
 
 ## Defining a Schema
 
+```sh
+yusuf@Yusufs-MacBook-Pro GraphQL % node server.js
+{
+  kind: 'Document',
+  definitions: [
+    {
+      kind: 'ObjectTypeDefinition',
+      description: undefined,
+      name: [Object],
+      interfaces: [],
+      directives: [],
+      fields: [Array]
+    }
+  ],
+  loc: Location {
+    start: 0,
+    end: 49,
+    source: Source {
+      body: '\n    type Query {\n        greeting: String\n    }\n',
+      name: 'GraphQL request',
+      locationOffset: [Object]
+    }
+  }
+}
+```
+
+```sh
+yusuf@Yusufs-MacBook-Pro GraphQL % node server.js
+server running on http://localhost:9000/
+```

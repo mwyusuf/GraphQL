@@ -1,0 +1,7 @@
+{
+    "name": "hello graphQL yusuf",
+    "dependencies": {
+        "apollo-server": "^3.6.3",
+        "graphql": "^16.3.0"
+    }
+}
